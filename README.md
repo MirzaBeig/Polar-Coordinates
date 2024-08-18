@@ -26,5 +26,4 @@ polar.y = arctan2(uv.y, uv.x); // Angle.
 polar.x = log(polar.x); // AKA, polar.x = log(length(uv));
 ```
 
-https://github.com/user-attachments/assets/b701c37c-9809-4a3b-9b0f-52c02f6d4a76
-
+![Polar Coordinate Scaling](https://github.com/user-attachments/assets/3e955f9d-5523-4ed8-9068-40c89eef5094)
